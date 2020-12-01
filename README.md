@@ -6,9 +6,6 @@
 
 ### In the Past:
 
-- I designed a map where fires were starting.
-- I created a Covid-19 statistics in Python.
-- I made a Google Assistant on Raspberry Pi.
 
 ### Languages and Tools:
 
