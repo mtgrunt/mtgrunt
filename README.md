@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning advanced Django.
 - ⚡ Fun fact: The Cookie Monster has a real name. It's Sid.
 
+### In the Past:
+
+- I designed a map where fires were starting.
+- I created a Covid-19 statistics in Python.
+- I made a Google Assistant on Raspberry Pi.
+
 ### Languages and Tools:
 
 <img align="left" alt="Sublime" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
