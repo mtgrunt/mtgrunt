@@ -1,6 +1,6 @@
 ### mtgrunt
 
-- | Front-End | Back-End |
+| Front-End | Back-End |
 
 
 ### Here is what I'm learning:
