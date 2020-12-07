@@ -1,6 +1,6 @@
-### 
-https://camo.githubusercontent.com/a2869dfe6674dfee299de5a123cb3232d1c93040e4c1d0dd4285f134b20266df/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313530303432363133372f323634382f616c6c6f2d746f6e6775652e676966
-| Front-End | Back-End |
+### mtgrunt
+
+- | Front-End | Back-End |
 
 
 ### Here is what I'm learning:
