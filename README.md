@@ -1,4 +1,4 @@
-### Front-End | Back-End 
+### Front-End | Back-End:
 
 - <img align="left" alt="Sublime" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />Always Be Coding AND Creating.
 
