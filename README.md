@@ -10,7 +10,7 @@
 
 ### In the Past:
 - The open source development.
-- I designed websites.
+- I designed various websites.
 - I assisted in an old Grand Theft Auto 5 mods.
 
 ### Languages and Tools:
