@@ -12,7 +12,6 @@
 - The open source development.
 - I designed various websites.
 - I assisted in an old Grand Theft Auto 5 mods.
-- I built and I soldered on a Google Home Assistant and a Raspberry Pi 3 Model B.
 
 ### Languages and Tools:
 
