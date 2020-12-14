@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently coding a website.
 - 🌱 I’m currently learning advanced Django.
+
+### Points:
 - ⚡ Fun fact: The Cookie Monster has a real name. It's Sid.
 
 ### In the Past:
