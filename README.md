@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning advanced Django.
 
 ### Points:
+- I code HTML5, CSS3, Sass, Javascript, Node.js and Python.
 - ⚡ Fun fact: The Cookie Monster has a real name. It's Sid.
 
 ### In the Past:
