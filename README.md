@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently coding a website.
 - 🌱 I’m currently learning advanced Django.
+- 🚑 I'm coding various websites to scrap into a Python script for Covid-19 statistics with charts.
 
 ### Points:
 - I code HTML5, CSS3, Sass, Javascript, Node.js and Python.
@@ -13,7 +14,7 @@
 
 ### In the Past:
 - I coded a weather application.
-- The open source development.
+- The open source development. 
 - I designed various websites.
 - I assisted in an old Grand Theft Auto 5 mods.
 
