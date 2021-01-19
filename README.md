@@ -13,8 +13,8 @@
 
 ### In the Past:
 - 🌱 I coded my Django website.
-- 🌡  I coded a weather application.
 - 📖 The open source development. 
+- 🌡  I coded a weather application.
 - 🔎 I designed various websites.
 - 🎮 I assisted in an old Grand Theft Auto 5 mods.
 
