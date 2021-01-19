@@ -5,7 +5,6 @@
 ### Here is what I'm learning:
 
 - 🔭 I’m currently coding a website.
-- 🌱 I’m currently learning advanced Django.
 - 🚑 I'm coding various websites to scrap into a Python script for Covid-19 statistics with charts.
 
 ### Points:
@@ -13,6 +12,7 @@
 - ⚡ Fun fact: The Cookie Monster has a real name. It's Sid.
 
 ### In the Past:
+- 🌱 I coded my Django website.
 - 🌡  I coded a weather application.
 - 📖 The open source development. 
 - 🔎 I designed various websites.
