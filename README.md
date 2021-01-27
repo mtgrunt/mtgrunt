@@ -11,7 +11,7 @@
 - ⚡ Fun fact: The Cookie Monster has a real name. It's Sid.
 
 ### In the Past:
-- 🌱 I coded my Django website.
+- {} I coded my Django website.
 - 📖 The open source development. 
 - 🌡  I coded a weather application.
 - 🔎 I designed various websites.
