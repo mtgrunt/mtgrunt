@@ -3,8 +3,7 @@
 - <img align="left" alt="Sublime" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />Always Be Coding AND Creating.
 
 ### Here is what I'm learning:
-
-- 🔭 I’m currently coding a website.
+- 🌎 I’m currently learning React.
 - 🚑 I'm coding various websites to scrap into a Python script for Covid-19 statistics with charts.
 
 ### Points:
