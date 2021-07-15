@@ -7,7 +7,7 @@
 - 🚑 I'm coding various websites to scrap into a Python script for Covid-19 statistics with charts.
 
 ### Points:
-- 🖥 I code HTML5, CSS3, Javascript, Node.js and Python.
+- 🖥 I code HTML5, CSS3, Javascript and Python.
 - ⚡ Fun fact: The Cookie Monster has a real name. It's Sid.
 
 ### In the Past:
