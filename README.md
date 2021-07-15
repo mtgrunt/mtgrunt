@@ -15,7 +15,7 @@
 - 📖 The open source development. 
 - 🌡  I coded a weather application.
 - 🔎 I designed various websites.
-- 🎮 I assisted in an old Grand Theft Auto 5 mods.
+- 🎮 I assisted in an old Grand Theft Auto 5 mod.
 
 ### Languages and Tools:
 
