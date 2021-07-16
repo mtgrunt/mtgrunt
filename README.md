@@ -1,3 +1,5 @@
+Hello there! 
+
 ### About:
 
 - <img align="left" alt="Sublime" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />Always Be Coding AND Creating.
@@ -15,6 +17,7 @@
 - 📖 The open source development. 
 - 🌡  I coded a weather application.
 - 🔎 I designed various websites.
+- 🗼 I learned Bootstrap, JQuery and MySQL.
 - 🎮 I assisted in an old Grand Theft Auto 5 mod.
 
 ### Languages and Tools:
