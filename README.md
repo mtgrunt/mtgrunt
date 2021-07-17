@@ -30,8 +30,8 @@
 <img align="left" alt="Babel" width="26px" src="https://img.icons8.com/dusk/26/000000/babel.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Django" width="26px" src="https://avatars3.githubusercontent.com/u/27804?s=200&v=4" />
-<img align="left" alt="Digital Ocean" width="26px" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/89862-ee41fbaed27b27b28656cd6ba664a5c6-medium_jpg.jpg?buster=1380737223" />
 <img align="left" alt="Heroku" width="26px" src="https://hadrienj.github.io/assets/images/icons/heroku.png"  />
+<img align="left" alt="Digital Ocean" width="26px" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/89862-ee41fbaed27b27b28656cd6ba664a5c6-medium_jpg.jpg?buster=1380737223" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />
 
 <br/>
