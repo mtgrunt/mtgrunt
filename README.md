@@ -6,7 +6,7 @@
 
 ### Here is what I'm learning:
 - 🌎 I’m currently learning React JS. 
-- 🚑 I'm coding various websites to scrap into a Python script for Covid-19 statistics with charts.
+- 🚑 I'm coding various websites to scrap into a Python script for Covid-19 statistics.
 
 ### Points:
 - 🖥 I code HTML5, CSS3, Javascript and Python.
