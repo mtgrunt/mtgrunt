@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Sublime" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://1.bp.blogspot.com/-drAQCMMpBbI/X0v56f0fbMI/AAAAAAAAGN8/5V7Xcnsp8LIwfTQM7ev_eN9GFI7UPelzACNcBGAsYHQ/s1200/1200px-Visual_Studio_Code_1.35_icon.svg.jpg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
