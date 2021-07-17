@@ -9,6 +9,7 @@
 
 ### Points:
 - 🖥 I code HTML5, CSS3, Javascript and Python.
+- 🗼 I learned Bootstrap, JQuery and MySQL.
 - ⚡ Fun fact: The Cookie Monster has a real name. It's Sid.
 
 ### In the Past:
@@ -16,7 +17,6 @@
 - 📖 The open source development. 
 - 🌡  I coded a weather application.
 - 🔎 I designed various websites.
-- 🗼 I learned Bootstrap, JQuery and MySQL.
 - 🎮 I assisted in an old Grand Theft Auto 5 mod.
 
 ### Languages and Tools:
