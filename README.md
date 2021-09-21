@@ -4,13 +4,12 @@
 <img align="left" alt="Cook" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />Always Be Coding AND Creating. 
 
 
-### Here is what I'm learning:
-- 🌎 I’m currently learning React JS. 
+### Here is what I'm learning: 
 - 🚑 I'm coding various websites to scrap into a Python script for Covid-19 statistics.
 
 ### Points:
 - 🖥 I code HTML5, CSS3, Javascript and Python.
-- 🗼 I learned Bootstrap and JQuery.
+- 🗼 I learned Bootstrap, JQuery and React.
 - ⚡ Fun fact: The Cookie Monster has a real name. It's Sid.
 
 ### In the Past:
