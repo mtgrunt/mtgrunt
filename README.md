@@ -5,7 +5,7 @@
 
 
 ### Here is what I'm learning: 
-- 🚑 I'm coding various websites to scrap into a Python script for Covid-19 statistics.
+- 🚑 I'm coding various websites to scrap into a Python script for Covid-19.
 
 ### Points:
 - 🖥 I code HTML5, CSS3, Javascript and Python.
