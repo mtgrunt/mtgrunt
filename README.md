@@ -5,10 +5,11 @@
 
 
 ### Here is what I'm learning: 
+- 📝 I'm writing code for Django 4.0 to test apps and websites. 
 - 🚑 I'm coding various websites to scrap into a Python script for Covid-19.
 
 ### Points:
-- 🖥 I code HTML5, CSS3, Javascript and Python.
+- 🚀 I code HTML5, CSS3, Javascript and Python.
 - 🗼 I learned Bootstrap, JQuery and React.
 - ⚡ Fun fact: The Cookie Monster has a real name. It's Sid.
 
