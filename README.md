@@ -7,8 +7,6 @@ I'm Miles from California, U.S. and I do coverage on design and development.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtgrunt)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
 ### Here is what I'm learning: 
 - 📝 I'm writing code for Django 4.0 to test apps and websites. 
 - 🚑 I'm coding various websites to scrap into a Python script for Covid-19.
