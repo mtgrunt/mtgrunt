@@ -1,5 +1,5 @@
 ### 😉 Hello there, nice to see you.
-### ![Twitter Follow](https://img.shields.io/twitter/follow/mtgrunt?logo=Twitter&logoColor=1DA1F2&style=for-the-badge)
+### ![Twitter Follow](https://twitter.com/mtgrunt)
 
 ### About:
 <img align="left" alt="Cook" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />Always Be Coding AND Creating. 
