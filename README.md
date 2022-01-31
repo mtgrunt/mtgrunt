@@ -2,7 +2,7 @@
 
 ### About:
 I'm Miles from California, U.S. and I do coverage on design and development.
-https://img.shields.io/github/followers/mtgrunt?style=for-the-badge
+![GitHub followers](https://img.shields.io/github/followers/mtgrunt?style=for-the-badge)
 <img align="left" alt="Cook" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,prs,issues&show_icons=true&theme=algolia)
