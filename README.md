@@ -1,9 +1,8 @@
 ### 😉 Hello there, nice to see you.
-### About:
-
-<img align="left" alt="Cook" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />Always Be Coding AND Creating. 
-
 ### ![Twitter Follow](https://img.shields.io/twitter/follow/mtgrunt?logo=Twitter&logoColor=1DA1F2&style=for-the-badge)
+
+### About:
+<img align="left" alt="Cook" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />Always Be Coding AND Creating. 
 
 ### Here is what I'm learning: 
 - 📝 I'm writing code for Django 4.0 to test apps and websites. 
