@@ -34,5 +34,7 @@
 <img align="left" alt="Heroku" width="26px" src="https://hadrienj.github.io/assets/images/icons/heroku.png"  />
 <img align="left" alt="Digital Ocean" width="26px" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/89862-ee41fbaed27b27b28656cd6ba664a5c6-medium_jpg.jpg?buster=1380737223" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />
-
 <br/>
+<br/>
+![Twitter Follow](https://img.shields.io/twitter/follow/mtgrunt?logo=Twitter&logoColor=1DA1F2&style=for-the-badge)
+
