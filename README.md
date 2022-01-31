@@ -39,6 +39,8 @@ I'm Miles from California, U.S. and I do coverage on design and development.
 <img align="left" alt="Heroku" width="26px" src="https://hadrienj.github.io/assets/images/icons/heroku.png"  />
 <img align="left" alt="Digital Ocean" width="26px" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/89862-ee41fbaed27b27b28656cd6ba664a5c6-medium_jpg.jpg?buster=1380737223" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />
+<img align="left" alt="Jekyll" width="26px" src="https://user-images.githubusercontent.com/8009278/151889857-b0989b21-e822-4ccb-b003-d6066fb0cb11.png" />
+
 
 <br/>
 
