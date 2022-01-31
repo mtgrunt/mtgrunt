@@ -1,9 +1,12 @@
 ### 😉 [mtgrunt] Hello there, nice to see you. 
 
-I'm Miles from California, U.S. and I do coverage on design and development. 
-
 ### About:
+I'm Miles from California, U.S. and I do coverage on design and development. 
 <img align="left" alt="Cook" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />Always Be Coding AND Creating. 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtgrunt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 ### Here is what I'm learning: 
 - 📝 I'm writing code for Django 4.0 to test apps and websites. 
