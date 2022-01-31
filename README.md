@@ -1,5 +1,7 @@
 ### 😉 [mtgrunt] Hello there, nice to see you. 
 
+I'm Miles from California, U.S. and I do coverage on design and development. 
+
 ### About:
 <img align="left" alt="Cook" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />Always Be Coding AND Creating. 
 
