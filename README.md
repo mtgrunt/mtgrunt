@@ -1,4 +1,4 @@
-### 😉 Hello there, nice to see you.
+### 😉 [mtgrunt] Hello there, nice to see you. 
 
 ### About:
 <img align="left" alt="Cook" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />Always Be Coding AND Creating. 
@@ -34,6 +34,7 @@
 <img align="left" alt="Digital Ocean" width="26px" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/89862-ee41fbaed27b27b28656cd6ba664a5c6-medium_jpg.jpg?buster=1380737223" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtgrunt)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 
