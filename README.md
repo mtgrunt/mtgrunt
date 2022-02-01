@@ -7,7 +7,7 @@ I'm Miles from California, U.S. and I do coverage on design and development.
 
 ![GitHub followers](https://img.shields.io/github/followers/mtgrunt?style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,prs,issues&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia)
 
 ### Here is what I'm learning: 
 - 📝 I'm writing code for Django 4.0 to test apps and websites. 
