@@ -7,10 +7,6 @@ I'm Miles from California, U.S. and I do coverage on design and development.
 
 ![GitHub followers](https://img.shields.io/github/followers/mtgrunt?style=for-the-badge)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrunt&layout=compact" />
-<br>
 ### Here is what I'm learning: 
 - 🔓 2022 Goals: Contribute further to Open Source projects.
 - 📝 I'm writing code for Django 4.0 to test apps and websites. 
@@ -27,6 +23,13 @@ I'm Miles from California, U.S. and I do coverage on design and development.
 - 🌡  I coded a weather application.
 - 🔎 I designed various websites.
 - 🎮 I assisted in an old Grand Theft Auto 5 mod.
+
+### Github Stats/Most Used Languages
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrunt&layout=compact" />
+
 
 ### Languages and Tools:
 
