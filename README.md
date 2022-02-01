@@ -24,13 +24,6 @@ I'm Miles from California, U.S. and I do coverage on design and development.
 - 🔎 I designed various websites.
 - 🎮 I assisted in an old Grand Theft Auto 5 mod.
 
-### Github Stats/Most Used Languages
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrunt&layout=compact" />
-
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://1.bp.blogspot.com/-drAQCMMpBbI/X0v56f0fbMI/AAAAAAAAGN8/5V7Xcnsp8LIwfTQM7ev_eN9GFI7UPelzACNcBGAsYHQ/s1200/1200px-Visual_Studio_Code_1.35_icon.svg.jpg" />
@@ -46,6 +39,12 @@ I'm Miles from California, U.S. and I do coverage on design and development.
 <img align="left" alt="Digital Ocean" width="26px" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/89862-ee41fbaed27b27b28656cd6ba664a5c6-medium_jpg.jpg?buster=1380737223" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />
 <img align="left" alt="Jekyll" width="26px" src="https://user-images.githubusercontent.com/8009278/151889857-b0989b21-e822-4ccb-b003-d6066fb0cb11.png" />
+
+### Github Stats/Most Used Languages
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrunt&layout=compact" />
 
 
 <br/>
