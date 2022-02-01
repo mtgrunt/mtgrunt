@@ -7,7 +7,9 @@ I'm Miles from California, U.S. and I do coverage on design and development.
 
 ![GitHub followers](https://img.shields.io/github/followers/mtgrunt?style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrunt&layout=compact" />
 
 ### Here is what I'm learning: 
 - 🔓 2022 Goals: Contribute further to Open Source projects.
