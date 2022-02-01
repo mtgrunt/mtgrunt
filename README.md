@@ -10,6 +10,7 @@ I'm Miles from California, U.S. and I do coverage on design and development.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia)
 
 ### Here is what I'm learning: 
+- 🔓 2022 Goals: Contribute further to Open Source projects.
 - 📝 I'm writing code for Django 4.0 to test apps and websites. 
 - 🚑 I'm coding various websites to scrap into a Python script for Covid-19.
 
