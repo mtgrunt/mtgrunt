@@ -45,7 +45,7 @@ I'm Miles from California, U.S. and I do coverage on design and development.
   <thead>
     <tr>
       <th>
-        <img align="left" width="99%" src="https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia" />
+        <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia" />
       </th>  
       <th>
         <img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrunt&layout=compact" />
