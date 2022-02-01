@@ -41,11 +41,18 @@ I'm Miles from California, U.S. and I do coverage on design and development.
 <img align="left" alt="Jekyll" width="26px" src="https://user-images.githubusercontent.com/8009278/151889857-b0989b21-e822-4ccb-b003-d6066fb0cb11.png" />
 
 &nbsp; &nbsp;
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrunt&layout=compact" />
-
+<table>
+  <thead>
+    <tr>
+      <th>
+        <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mtgrunt&hide=stars,issues&show_icons=true&theme=algolia" />
+      </th>  
+      <th>
+        <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrunt&layout=compact" />
+      </th>  
+    </tr>
+  </thead>
+</table>
 
 <br/>
 
