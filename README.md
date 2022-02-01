@@ -53,7 +53,4 @@ I'm Miles from California, U.S. and I do coverage on design and development.
     </tr>
   </thead>
 </table>
-
 <br/>
-
-
