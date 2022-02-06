@@ -15,7 +15,6 @@ I'm Miles from California, U.S. My passion is on design and development.
 ### Points:
 - 🚀 I code HTML5, CSS3, Javascript and Python.
 - 🗼 I learned Bootstrap, JQuery and React.
-- ⚡ Fun fact: The Cookie Monster has a real name. It's Sid.
 
 ### In the Past:
 - </> I coded my Django website.
