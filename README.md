@@ -15,6 +15,8 @@
 ### Points:
 - 🚀 I code HTML5, CSS3, Javascript and Python.
 - 🗼 I learned Bootstrap, JQuery and React.
+- ## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### In the Past:
 - </> I coded my Django website.
