@@ -17,6 +17,7 @@
 - 🗼 I learned Bootstrap, JQuery and React.
 - 😂 Here is a random joke that'll make you laugh! <br /> <br />
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### In the Past:
 - </> I coded my Django website.
 - 📖 The open source development. 
