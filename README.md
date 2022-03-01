@@ -4,7 +4,7 @@
 ### About:
 <img align="left" alt="Cook" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />
 
-### <b>I'm Miles from California, U.S. and I'm a web developer. <br />💰 &nbsp; Emergency response -- Help Ukrainian Families. https://www.rescue.org/</b>
+### <b>I'm Miles from California, U.S. and I'm a web developer. <br />💰 &nbsp; &nbsp; Emergency response -- Help Ukrainian Families. https://www.rescue.org/</b>
 
 ![GitHub followers](https://img.shields.io/github/followers/mtgrunt?style=for-the-badge)
 
