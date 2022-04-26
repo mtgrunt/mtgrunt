@@ -10,7 +10,6 @@
 
 ### Here is what I'm learning: 
 - 🔓 2022 Goals: Contribute further to Open Source projects.
-- 📝 I'm writing code for Django 4.0 to test apps and websites. 
 - 🚑 I'm coding various websites to scrap into a Python script for Covid-19.
 
 ### Points:
@@ -18,7 +17,7 @@
 - 🗼 I learned Bootstrap, JQuery and React.
 
 ### In the Past:
-- </> I coded my Django website.
+- </> I coded my Django website and I programmed various apps/websites for Django 4.0.
 - 📖 The open source development. 
 - 🌡  I coded a weather application.
 - 🔎 I designed various websites.
