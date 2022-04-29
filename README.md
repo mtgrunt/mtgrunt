@@ -10,7 +10,7 @@
 
 ### Here is what I'm learning: 
 - 🔓 2022 Goals: Contribute further to Open Source projects.
-- 🚑 I'm coding various websites to scrap into a Python file for Covid-19.
+- 🚑 I'm coding various websites to scrap into a file for Covid-19.
 
 ### Points:
 - 🚀 I code HTML5, CSS3, Javascript and Python.
