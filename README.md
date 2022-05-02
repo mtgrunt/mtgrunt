@@ -8,15 +8,15 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/mtgrunt?style=for-the-badge)
 
-### Here is what I'm learning: 
+### Here is what I'm learning:   
 - 🔓 2022 Goals: Contribute further to Open Source projects.
-- 🚑 I'm coding various websites to scrap into a file for Covid-19.
 
 ### Points:
 - 🚀 I code HTML5, CSS3, Javascript and Python.
 - 🗼 I learned Bootstrap, JQuery and React.
 
 ### In the Past:
+- 🚑 I was coding various websites to scrap into a file for Covid-19.
 - </> I coded my Django website and I programmed various apps/websites for Django 4.0.
 - 📖 The open source development. 
 - 🌡  I coded a weather application.
