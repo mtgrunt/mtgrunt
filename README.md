@@ -1,9 +1,7 @@
 ### 😉 [mtgrunt] Hello there, nice to see you. 👋
 
 
-### About:
-
-### <b>I'm Miles from California, U.S. <br />
+### About: <b>I'm Miles from California, U.S. <br />
 
 ![GitHub followers](https://img.shields.io/github/followers/mtgrunt?style=for-the-badge)
 
