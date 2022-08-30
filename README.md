@@ -2,7 +2,6 @@
 
 
 ### About:
-<img align="left" alt="Cook" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d41c67ed853180439d62682627359bb32474b0b0/icons/codechef.svg" />
 
 ### <b>I'm Miles from California, U.S. <br />
 
