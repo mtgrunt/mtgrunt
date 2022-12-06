@@ -18,7 +18,7 @@
 - 📖 The open source development. 
 - 🌡  I coded a weather application.
 - 🔎 I designed various websites.
-- 🎮 I assisted in an old Grand Theft Auto 5 mod.
+- 🎮 I assisted in an old Grand Theft Auto 5 mod. and a server.
 
 ### Languages and Tools:
 HTML5, CSS3, SASS, Javascipt, Node, Python and Ruby.
