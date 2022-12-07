@@ -9,7 +9,7 @@
 - 🔓 2022 Goals: Contribute further to Open Source projects.
 
 ### Points:
-- 🚀 I code HTML5, CSS3, Javascript and Python.
+- 🚀 I code HTML5, CSS3, Javascript, Python and Ruby.
 - 🗼 I learned Bootstrap, JQuery and React.
 
 ### In the Past:
