@@ -14,7 +14,7 @@
 
 ### In the Past:
 - 🚑 I was coding various websites to scrap into a file for Covid-19.
-- </> I coded my Django website and I programmed various apps/websites for Django 4.0.
+- </> I coded my Django website and I programmed various apps and websites for Django 4.0.
 - 📖 The open source development. 
 - 🌡  I coded a weather application.
 - 🔎 I designed various websites.
