@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mtgrunt?style=for-the-badge)
 
 ### Here is what I'm learning:   
-- 🔓 2022 Goals: Contribute further to Open Source projects.
+- 🔓 2023 Goal: My website will be up after the New Year, January, 2023.
 
 ### Points:
 - 🚀 I code HTML5, CSS3, Javascript, Python and Ruby.
