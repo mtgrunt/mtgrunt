@@ -1,7 +1,7 @@
 ### 😉 [mtgrunt] Hello there, nice to see you. 👋
 
 
-### About:<br /> <b>I'm Miles from California, U.S. I'm a computer support analyst by day and a web developer by night. <br />
+### About:<br /> <b>I'm Miles from California, U.S. I'm a computer support analyst by day and a web developer by night. <br />My path is to combine creative reasoning and design with an analytical approach to solve dilemmas at the intersection of business and technology.
 
 ![GitHub followers](https://img.shields.io/github/followers/mtgrunt?style=for-the-badge)
 
@@ -12,6 +12,12 @@
 - 🚀 I code HTML5, CSS3, Javascript, Python and Ruby.
 - 🗼 I learned Bootstrap, JQuery and React.
 
+### Courses:
+- Data Structures
+- Database Management Systems
+- Responsive Design Form
+- Software Design Methodology
+  
 ### In the Past:
 - 🚑 I was coding various websites to scrap into a file for Covid-19.
 - </> I coded my Django website and I programmed various apps and websites for Django 4.0.
