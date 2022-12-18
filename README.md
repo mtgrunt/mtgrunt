@@ -1,7 +1,7 @@
 ### 😉 [mtgrunt] Hello there, nice to see you. 👋
 
 
-### About:<br /> <b>I'm Miles from California, U.S. <br />I'm a computer support analyst by day and a web developer by night. <br />
+### About:<br /> <b>I'm Miles from California, U.S. I'm a computer support analyst by day and a web developer by night. <br />
 
 ![GitHub followers](https://img.shields.io/github/followers/mtgrunt?style=for-the-badge)
 
