@@ -3,8 +3,6 @@
 
 ### About:<br /> <b>I'm Miles from California, U.S. I'm a computer support analyst by day and a web developer by night. <br />My path is to combine creative reasoning and design with an analytical approach to solve dilemmas at the intersection of business and technology.
 
-![GitHub followers](https://img.shields.io/github/followers/mtgrunt?style=for-the-badge)
-
 ### Here is what I'm learning:   
 - 🔓 2023 Goal: My website will be up after the New Year, January, 2023.
 
