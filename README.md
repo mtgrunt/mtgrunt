@@ -1,8 +1,7 @@
 ### 😉 [mtgrunt] Hello there, nice to see you. 👋
 
 
-### About:<br /> <b>I'm Miles from California, U.S. I'm a computer support analyst by day and a web developer by night. <br />My path is to combine creative reasoning and design with an analytical approach to solve dilemmas at the intersection of business and technology.
-
+### About:<br /> <b>I'm Miles from California, U.S. I'm a computer support analyst by day and a web developer by night. <br />
 ### Here is what I'm learning:   
 - 🔓 2023 Goal: My website will be up after the New Year, January, 2023.
 
