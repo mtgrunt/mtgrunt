@@ -3,7 +3,7 @@
 
 ### About:<br /> <b>I'm Miles from California, U.S. I'm a computer support analyst by day and a web developer by night. <br />
 ### Here is what I'm learning:   
-- 🔓 2023 Goal: My website will be up after the New Year, January, 2023.
+- 🔓 2023 Goal: Coming Soon.
 
 ### Points:
 - 🚀 I code HTML5, CSS3, Javascript, Python and Ruby.
