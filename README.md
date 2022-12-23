@@ -24,7 +24,7 @@
 - 🎮 I assisted in an old Grand Theft Auto 5 mod. and a server.
 
 ### Languages and Tools:
-HTML5, CSS3, SASS, Javascipt, Node, Python and Ruby.
+HTML5, CSS3, SASS, Javascipt, Node, PHP, Python and Ruby.
 &nbsp; &nbsp;
 <table>
   <thead>
