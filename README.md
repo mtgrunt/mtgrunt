@@ -6,7 +6,7 @@
 - 🔓 2023 Goal: Coming Soon.
 
 ### Points:
-- 🚀 I code HTML5, CSS3, Javascript, Python and Ruby.
+- 🚀 I code HTML5, CSS3, Javascript, PHP, Python and Ruby.
 - 🗼 I learned Bootstrap, JQuery and React.
 
 ### Courses:
