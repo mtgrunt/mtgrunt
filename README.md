@@ -1,7 +1,7 @@
 ### 😉 [mtgrunt] Hello there, nice to see you. 👋
 
 
-### About:<br /> <b>I'm Miles from California, U.S. <br /> I'm a computer support analyst by day and a web developer by night. <br />
+### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco.<br /> I'm a computer support analyst by day and a web developer by night. <br />
 ### Here is what I'm learning:   
 - 🔓 2023 Goal: Coming Soon.
 
