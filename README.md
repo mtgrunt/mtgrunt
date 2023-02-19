@@ -3,7 +3,7 @@
 
 ### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco.<br /> I'm a computer support analyst by day and a web developer by night. <br />
 ### Here is what I'm learning:   
-- 🔓 2023 Goal: Coming Soon.
+- 🔓 2023 Goal: When seeking a modern website design, it's essential to keep up with the latest web design trends. Every day, new and innovative examples of contemporary website designs emerge. I'm excited to create my latest website.
 
 ### Points:
 - 🚀 I code HTML5, CSS3, Javascript, PHP, Python and Ruby.
