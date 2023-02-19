@@ -10,10 +10,10 @@
 - 🗼 I learned Bootstrap, JQuery and React.
 
 ### Courses:
-- Data Structures
-- Database Management Systems
-- Responsive Design Form
-- Software Design Methodology
+- 🧮 Data Structures
+- 📝 Database Management Systems
+- 📍 Responsive Design Form
+- 💾 Software Design Methodology
   
 ### In the Past:
 - 🚑 I was coding various websites to scrap into a file for Covid-19.
