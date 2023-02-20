@@ -7,7 +7,7 @@
 
 ### Points:
 - 🚀 I code HTML5, CSS3, Javascript, PHP, Python and Ruby.
-- 🗼 I learned Bootstrap, JQuery and React.
+- 🗼 I learned Bootstrap, Django, JQuery and React.
 
 ### Courses:
 - 🧮 Data Structures
