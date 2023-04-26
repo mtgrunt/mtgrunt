@@ -38,4 +38,3 @@ HTML5, CSS3, SASS, Javascipt, Node, PHP, Python and Ruby.
     </tr>
   </thead>
 </table>
-<br/ >
