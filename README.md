@@ -2,8 +2,6 @@
 
 
 ### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco.<br /> I'm a computer support analyst by day and a web developer by night. <br />
-### Here is what I'm learning:   
-- 🔓 2023 Goal: When seeking a modern website design, it's essential to keep up with the latest web design trends. Every day, new and innovative examples of contemporary website designs emerge. I'm excited to create my latest website.
 
 ### Points:
 - 🚀 I code HTML5, CSS3, Javascript, PHP, Python and Ruby.
@@ -16,6 +14,7 @@
 - 💾 Software Design Methodology
   
 ### In the Past:
+- </> I programmed my new website and it's HUGO.
 - 🚑 I was coding various websites to scrap into a file for Covid-19.
 - </> I coded my Django website and I programmed various apps and websites for Django 4.0.
 - 📖 The open source development. 
