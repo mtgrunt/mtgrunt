@@ -38,4 +38,4 @@ HTML5, CSS3, SASS, Javascipt, Node, PHP, Python and Ruby.
 </table>
 
 ### Spotify:
-[![spotify-github-profile](https://spotify-github-profile.kittinax.app/api/view?uid=mtgrunt&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=024200&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com).
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
