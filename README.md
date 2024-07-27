@@ -13,7 +13,7 @@
 - 💾 Software Design Methodology
   
 ### In the Past:
-- </> I programmed my new website and it's HUGO.
+- </> I programmed my new website and it's Hugo & Blowfish.
 - 🚑 I was coding various websites to scrap into a file for Covid-19.
 - </> I coded my Django website and I programmed various apps and websites for Django 4.0.
 - 📖 The open source development. 
