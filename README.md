@@ -1,6 +1,6 @@
 ### 😉 [mtgrunt] Hello there, nice to see you. 👋
 
-### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco.<br /> I'm a computer support analyst by day and a web developer by night. <br />
+### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco.<br /> I'm a web developer. <br />
 
 ### Points:
 - 🚀 I code HTML5, CSS3, Javascript, PHP, Python and Ruby.
