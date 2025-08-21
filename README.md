@@ -6,7 +6,7 @@
   - 🌱 &nbsp; I’m currently learning AI and I'm working on Python.
   - 🔭 &nbsp; I’m currently exploring Gen AI and LLMs.
 #### Past Projects
-  -  &nbsp; Django
+  - <img src="https://skillicons.dev/icons?i=django" /> &nbsp; Django
   - 🛠 &nbsp; Hugo
   - 🛠 &nbsp; Blockchain
   - <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/25968577-5934-4501-9d63-9a468de5e66f" /> &nbsp; Covid-19
