@@ -17,14 +17,9 @@ Languages: HTML5, CSS3, JavaScript, JSON, Python, YAML and MORE.
   </a>
   
 #### Skills:   
-  
-  🛠 &nbsp; 
-  - ⚙️&nbsp;  
-    📫 🎯
 <br />    
-<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,bootstrap,cloudflare,discord,django,stackoverflow,tensorflow,vim," />
+    <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,bootstrap,cloudflare,discord,stackoverflow,tensorflow,vim," />
   </a>
-</p>
+
 
