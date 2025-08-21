@@ -7,8 +7,8 @@
   - 🔭 &nbsp; I’m currently exploring Gen AI and LLMs.
 #### Past Projects:
   - <img src="https://skillicons.dev/icons?i=django" /> &nbsp; Django
-  - <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f9afee9c-02dd-4deb-ba82-57211d48d070" />
- &nbsp; Hugo
+  - <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f9afee9c-02dd-4deb-ba82-57211d48d070" /> Hugo
+ &nbsp; 
   - 🛠 &nbsp; Blockchain
   - <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=heroku" />
