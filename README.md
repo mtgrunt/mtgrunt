@@ -2,12 +2,13 @@
 
 ### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco. <br />
 
-#### Present Project
+#### Present Project(s):
   - 🌱 &nbsp; I’m currently learning AI and I'm working on Python.
   - 🔭 &nbsp; I’m currently exploring Gen AI and LLMs.
-#### Past Projects
+#### Past Projects:
   - <img src="https://skillicons.dev/icons?i=django" /> &nbsp; Django
-  - 🛠 &nbsp; Hugo
+  - <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f9afee9c-02dd-4deb-ba82-57211d48d070" />
+ &nbsp; Hugo
   - 🛠 &nbsp; Blockchain
   - <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=heroku" />
