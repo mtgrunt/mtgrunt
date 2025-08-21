@@ -2,5 +2,15 @@
 
 ### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco.<br />
 #### Present Project
-#### Past Projects
+  - 🌱 &nbsp; I’m currently learning AI and I'm working on Python.
+  - 🔭 &nbsp; I’m currently exploring Gen AI and LLMs.
+#### Past Project
+  - django &nbsp; Django
+  - 🛠 &nbsp; Hugo
+  - 🛠 &nbsp; Blockchain
+  - 🛠 &nbsp; Covid-19
+#### Languages and Skills
+  - 🛠 &nbsp; HTML5, CSS3, JavaScript, JSON, Python and YAML
+  - ⚙️&nbsp; Codepen 
+    📫 🎯
 
