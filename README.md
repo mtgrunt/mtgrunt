@@ -13,7 +13,7 @@
 <br />
 #### Languages and Skills
   
-  - <p align="left">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn" />
   </a>
