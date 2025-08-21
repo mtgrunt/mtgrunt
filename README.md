@@ -11,16 +11,20 @@
   - 🛠 &nbsp; Blockchain
   - 🛠 &nbsp; Covid-19
 <br />
-#### Languages and Skills
+#### Languages: HTML5, CSS3, JavaScript, JSON, Python, YAML and MORE.
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn" />
   </a>
-  </p>🛠 &nbsp; HTML5, CSS3, JavaScript, JSON, Python and YAML
-  - ⚙️&nbsp; Codepen 
-    📫 🎯
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,bootstrap,cloudflare,css,discord,django,flask,git,github,html,js,linux,nodejs,npm,postgres,sass,sqlite,stackoverflow,tensorflow,vim,yarn" />
-  </a>
   </p>
+#### Skills:   
+  
+  🛠 &nbsp; 
+  - ⚙️&nbsp;  
+    📫 🎯
+<br />    
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,bootstrap,cloudflare,discord,django,stackoverflow,tensorflow,vim," />
+  </a>
+</p>
