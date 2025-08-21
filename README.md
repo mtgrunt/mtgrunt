@@ -10,7 +10,8 @@
   - 🛠 &nbsp; Hugo
   - 🛠 &nbsp; Blockchain
   - 🛠 &nbsp; Covid-19
-#### Languages and Skills
+<br />
+  #### Languages and Skills
   - 🛠 &nbsp; HTML5, CSS3, JavaScript, JSON, Python and YAML
   - ⚙️&nbsp; Codepen 
     📫 🎯
