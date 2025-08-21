@@ -12,6 +12,7 @@
   <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/25968577-5934-4501-9d63-9a468de5e66f" /> &nbsp; 
 <br />
 Languages: HTML5, CSS3, JavaScript, JSON, Python, YAML and MORE.
+<br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn" />
   </a>
