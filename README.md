@@ -14,13 +14,13 @@
 
 #### Languages: HTML5, CSS3, JavaScript, JSON, Python, YAML and MORE:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn,bootstrap," />
   </a>
   
 #### Skills: Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Stackoverflow, Tensorflow and VIM.
 <br />    
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,bootstrap,cloudflare,discord,stackoverflow,tensorflow,vim," />
+    <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,cloudflare,discord,stackoverflow,tensorflow,vim," />
   </a>
 
 
