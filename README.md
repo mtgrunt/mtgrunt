@@ -10,7 +10,7 @@
   - <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f9afee9c-02dd-4deb-ba82-57211d48d070" /> Hugo
  &nbsp; 
   - 🛠 &nbsp; Blockchain
-    <a href="https://skillicons.dev">
+  -  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=heroku"/>
     </a> &nbsp; Heroku
    <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/25968577-5934-4501-9d63-9a468de5e66f" /> &nbsp; Covid-19
