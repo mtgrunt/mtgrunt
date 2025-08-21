@@ -14,11 +14,10 @@
 </p>
 <br />
 #### Languages: HTML5, CSS3, JavaScript, JSON, Python, YAML and MORE.
-<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn" />
   </a>
-  </p>
+  
 #### Skills:   
   
   🛠 &nbsp; 
