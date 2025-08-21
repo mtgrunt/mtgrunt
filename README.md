@@ -12,16 +12,16 @@
   - 🛠 &nbsp; Covid-19
 <br />
 #### Languages and Skills
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,bootstrap,cloudflare,css,discord,django,flask,git,github,html,js,linux,nodejs,npm,postgres,sass,sqlite,stackoverflow,tensorflow,vim,yarn" />
-  </a>
-  </p>
-  - <p align="center">
+  
+  - <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn" />
   </a>
   </p>🛠 &nbsp; HTML5, CSS3, JavaScript, JSON, Python and YAML
   - ⚙️&nbsp; Codepen 
     📫 🎯
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,bootstrap,cloudflare,css,discord,django,flask,git,github,html,js,linux,nodejs,npm,postgres,sass,sqlite,stackoverflow,tensorflow,vim,yarn" />
+  </a>
+  </p>
