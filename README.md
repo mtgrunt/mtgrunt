@@ -9,7 +9,9 @@
   -  &nbsp; Django
   - 🛠 &nbsp; Hugo
   - 🛠 &nbsp; Blockchain
-  - 🛠 &nbsp; Covid-19
+  - <p align="left">
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/25968577-5934-4501-9d63-9a468de5e66f" /> &nbsp; Covid-19
+</p>
 <br />
 #### Languages: HTML5, CSS3, JavaScript, JSON, Python, YAML and MORE.
 <p align="left">
@@ -28,3 +30,4 @@
     <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,bootstrap,cloudflare,discord,django,stackoverflow,tensorflow,vim," />
   </a>
 </p>
+
