@@ -6,7 +6,7 @@
   - 🔭 &nbsp; I’m currently exploring Gen AI and LLMs.
 #### Past Project
 <a align="left">  
-  - <img align="left" alt=Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white>"/> &nbsp; Django
+  - <img align="left" alt=Java" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"/> &nbsp; Django
   - 🛠 &nbsp; Hugo
   - 🛠 &nbsp; Blockchain
   - 🛠 &nbsp; Covid-19
