@@ -5,7 +5,7 @@
   - 🌱 &nbsp; I’m currently learning AI and I'm working on Python.
   - 🔭 &nbsp; I’m currently exploring Gen AI and LLMs.
 #### Past Project
-  - <https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white> &nbsp; Django
+  - https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white &nbsp; Django
   - 🛠 &nbsp; Hugo
   - 🛠 &nbsp; Blockchain
   - 🛠 &nbsp; Covid-19
