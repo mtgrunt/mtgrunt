@@ -10,7 +10,7 @@
   - 🛠 &nbsp; Hugo
   - 🛠 &nbsp; Blockchain
   - <p align="left">
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/25968577-5934-4501-9d63-9a468de5e66f" /> &nbsp; Covid-19
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/25968577-5934-4501-9d63-9a468de5e66f" /> &nbsp; Covid-19
 </p>
 <br />
 #### Languages: HTML5, CSS3, JavaScript, JSON, Python, YAML and MORE.
