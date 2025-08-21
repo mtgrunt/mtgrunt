@@ -11,7 +11,7 @@
  &nbsp; 
   - 🛠 &nbsp; Blockchain
   - <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku" />
+    <img src="https://skillicons.dev/icons?i=heroku"/>
     </a> &nbsp; Heroku
    <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/25968577-5934-4501-9d63-9a468de5e66f" /> &nbsp; Covid-19
 <br />
