@@ -17,12 +17,12 @@
     <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn,bootstrap," />
   </a>
 
-#### Security: Microsoft Azure, BASH Scripting, CCNA, CompTIA Security+, Firewall/NSG, Kali, 
+#### Security: Microsoft Azure, BASH Scripting, CCNA, CompTIA Security+, Firewall/NSG, Kali, Qubes, etc.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,bash,kali," />
   </a>
   
-#### Skills: Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Flask, Qubes, Raspberry Pi, Stackoverflow, Tensorflow, Whonix and VIM.
+#### Skills: Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Tensorflow, Whonix and VIM.
 <br />    
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,cloudflare,discord,flask,raspberrypi,stackoverflow,tensorflow,vim," />
