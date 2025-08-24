@@ -20,8 +20,10 @@
 #### Security: Microsoft Azure, BASH Scripting, CCNA, CompTIA Security+, Firewall/NSG, Kali, Qubes, etc.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,bash,kali," />
+    <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/df2c4ae6-0832-419a-8c7c-3d493ec07d75" />
   </a>
   
+
 #### Skills: Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Tensorflow, Whonix and VIM.
 <br />    
   <a href="https://skillicons.dev">
