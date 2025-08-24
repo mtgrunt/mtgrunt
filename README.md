@@ -5,7 +5,7 @@
 #### Present Project(s):
   - 🌱 &nbsp; I’m currently learning AI and I'm working on Python.
   - 🔭 &nbsp; I’m currently exploring Gen AI and LLMs.
-#### Past Projects:
+#### Past Projects: Django, Hugo, Blockchain, Covid-19 and MORE:
   <img src="https://skillicons.dev/icons?i=django" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f9afee9c-02dd-4deb-ba82-57211d48d070" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/057b99a8-b402-4dd3-8a79-a1f74b99b19a" />
