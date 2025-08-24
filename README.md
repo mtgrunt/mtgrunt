@@ -3,7 +3,7 @@
 ### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco. <br />
 
 #### Present Project(s):
-  - 🌱 &nbsp; I’m currently learning AI and I'm working on Python.
+  - 🌱 &nbsp; I’m currently learning AI, Microsoft Azure, CCNA, CompTIA Security+ and I'm working on Python.
   - 🔭 &nbsp; I’m currently exploring Gen AI and LLMs.
 #### Past Projects: Django, Hugo, Blockchain, Covid-19 and MORE:
   <img src="https://skillicons.dev/icons?i=django" />
@@ -16,11 +16,16 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn,bootstrap," />
   </a>
+
+#### Security: Microsoft Azure, BASH Scripting, CCNA, CompTIA Security+, Firewall/NSG, Kali, 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,bash,kali," />
+  </a>
   
-#### Skills: Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Stackoverflow, Tensorflow and VIM.
+#### Skills: Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Flask, Qubes, Raspberry Pi, Stackoverflow, Tensorflow, Whonix and VIM.
 <br />    
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,cloudflare,discord,stackoverflow,tensorflow,vim," />
+    <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,cloudflare,discord,flask,raspberrypi,stackoverflow,tensorflow,vim," />
   </a>
 
 
