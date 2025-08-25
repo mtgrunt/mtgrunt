@@ -5,9 +5,9 @@
 #### Present Project(s):
   - 🌱 &nbsp; I’m currently learning AI, Microsoft Azure, CCNA, CompTIA Security+ and I'm working on Python.
   - 🔭 &nbsp; I’m currently exploring Gen AI and LLMs.
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e126cb7e-6412-427b-b89a-24d270593941" />
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/999a5fa4-abef-49fe-99c7-61ccb25d503f" />
-  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/3c680f5e-e547-4b30-9626-7773ca460524" /> &nbsp;
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e126cb7e-6412-427b-b89a-24d270593941" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/999a5fa4-abef-49fe-99c7-61ccb25d503f" />
+  <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/3c680f5e-e547-4b30-9626-7773ca460524" /> &nbsp;
 <br />
 
 #### Past Projects: Django, Hugo, Blockchain, Covid-19, GTA5 Mods and MORE:
