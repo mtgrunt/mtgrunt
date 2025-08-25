@@ -10,7 +10,7 @@
   <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/3c680f5e-e547-4b30-9626-7773ca460524" /> &nbsp;
 <br />
 
-#### Past Projects: Django, Hugo, Blockchain, Covid-19, GTA5 Mods and MORE:
+#### Past Projects: Django, Hugo, Blockchain, Covid-19, GTA5 Mods and more:
   <img src="https://skillicons.dev/icons?i=django" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f9afee9c-02dd-4deb-ba82-57211d48d070" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/057b99a8-b402-4dd3-8a79-a1f74b99b19a" />
@@ -18,7 +18,7 @@
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/8b18a957-d66a-4596-890d-0110d3b05530" /> &nbsp; 
 <br />
 
-#### Languages: CSS3, HTML5, JavaScript, JSON, Python, YAML and MORE:
+#### Languages: CSS3, HTML5, JavaScript, JSON, Python, YAML and more:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn,bootstrap," />
   </a>
