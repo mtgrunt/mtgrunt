@@ -27,6 +27,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,bash,kali" />
     <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/df2c4ae6-0832-419a-8c7c-3d493ec07d75" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/999a5fa4-abef-49fe-99c7-61ccb25d503f" />
+    <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/3c680f5e-e547-4b30-9626-7773ca460524" />
   </a>
   
 
