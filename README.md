@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn,bootstrap," />
   </a>
 
-#### Security: Microsoft Azure, BASH Scripting, CCNA, CompTIA Security+, Firewall/NSG, Kali, Qubes, etc.
+#### Security: Azure, BASH Scripting, CCNA, CompTIA Security+, Firewall/NSG, Kali, Qubes, etc.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,bash,kali" />
     <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/df2c4ae6-0832-419a-8c7c-3d493ec07d75"/>
