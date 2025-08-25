@@ -3,7 +3,7 @@
 ### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco. <br />
 
 #### Present Project(s):
-  - 🌱 &nbsp; I’m currently learning AI, Microsoft Azure, CCNA, CompTIA Security+ and I'm working on Python.
+  - 🌱 &nbsp; I’m currently learning AI, Azure, CCNA, CompTIA Security+ and I'm working on Python.
   - 🔭 &nbsp; I’m currently exploring Gen AI and LLMs.
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e126cb7e-6412-427b-b89a-24d270593941" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/999a5fa4-abef-49fe-99c7-61ccb25d503f" />
