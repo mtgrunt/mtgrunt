@@ -30,4 +30,3 @@
     <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,cloudflare,discord,flask,raspberrypi,stackoverflow,tensorflow,vim," />
   </a>
 
-
