@@ -3,8 +3,8 @@
 ### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco. <br />
 
 #### Present Project(s):
-  - 🌱 &nbsp; I’m currently learning AI and I'm working on Python. My website is up, <a href="https://mileswallace.com" target="_blank">Miles Wallace</a> 
-
+  - 🌱 &nbsp; I’m currently learning AI and I'm working on Python.
+  - 
 #### Past Projects: Django, Hugo, Blockchain, Covid-19, GTA5 Mods:
   <img src="https://skillicons.dev/icons?i=django" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f9afee9c-02dd-4deb-ba82-57211d48d070" />
