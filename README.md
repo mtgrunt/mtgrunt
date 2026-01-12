@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,cloudflare,discord,flask,raspberrypi,stackoverflow,tensorflow,vim," />
   </a>
 <br />
-#### Spotify
+Spotify
   <p align="left">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&redirect=true">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
