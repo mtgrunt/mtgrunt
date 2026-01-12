@@ -24,13 +24,11 @@
     <img src="https://skillicons.dev/icons?i=bash,kali" />
     <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/df2c4ae6-0832-419a-8c7c-3d493ec07d75"/>
   </a>
-<br />
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&redirect=true)
-  
-  
 
 #### Skills/Fun: Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Tensorflow, Whonix and VIM.    
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,cloudflare,discord,flask,raspberrypi,stackoverflow,tensorflow,vim," />
   </a>
-
+<br />
+#### Spotify
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&redirect=true)
