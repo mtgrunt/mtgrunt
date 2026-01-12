@@ -3,9 +3,9 @@
 ### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco. <br />
 
 #### Present Project(s):
-  - 🌱 &nbsp; I’m currently learning AI and I'm developing a sentiment analysis project using IMDb data.
+  - 🌱 &nbsp; I’m currently learning AI.
    
-#### Past Projects: Django, Hugo, Blockchain, Covid-19, IMDb Sentiment Analysis, GTA5 Mods:
+#### Past Projects: Django, Hugo, Blockchain, Covid-19, IMDb Sentiment Analysis, GTA5 Mods, Spotify Github Profile:
   <img src="https://skillicons.dev/icons?i=django" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f9afee9c-02dd-4deb-ba82-57211d48d070" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/057b99a8-b402-4dd3-8a79-a1f74b99b19a" />
@@ -24,6 +24,9 @@
     <img src="https://skillicons.dev/icons?i=bash,kali" />
     <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/df2c4ae6-0832-419a-8c7c-3d493ec07d75"/>
   </a>
+<br />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&redirect=true)
+  
   
 
 #### Skills/Fun: Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Tensorflow, Whonix and VIM.    
