@@ -15,20 +15,10 @@
 <br />
 
 #### Languages: CSS3, HTML5, JavaScript, JSON, Python, YAML and more:
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,py,nodejs,npm,postgres,sass,sqlite,yarn,bootstrap," />
-  </a>
-
+  
 #### Security: BASH Scripting, Firewall/NSG, Kali, Qubes, etc.
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,kali" />
-    <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/df2c4ae6-0832-419a-8c7c-3d493ec07d75"/>
-  </a>
 
 #### Skills/Fun: Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Tensorflow, Whonix and VIM.    
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,azul,blender,cloudflare,discord,flask,raspberrypi,stackoverflow,tensorflow,vim," />
-  </a>
 <br />
 Spotify
   <p align="left">
