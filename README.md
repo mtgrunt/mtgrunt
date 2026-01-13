@@ -19,7 +19,7 @@
 #### Security: BASH Scripting, Firewall/NSG, Kali, Qubes, etc.
 
 #### Skills/Fun: Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Tensorflow, Whonix and VIM.    
-<br />
+
 Spotify
   <p align="left">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&redirect=true">
