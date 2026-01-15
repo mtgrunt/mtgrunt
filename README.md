@@ -15,7 +15,7 @@
     <img src="./imdb_logo.png" alt="IMDb" height="50">  
     <img width="50" height="50" alt="image" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PostgreSQL-Dark.svg" />
 <br />
-#### <b>Languages:</b> 
+<b>Languages:</b> 
   - CSS3, HTML5, JavaScript, JSON, Python, YAML and more:
 
 #### <b>Security:</b>
