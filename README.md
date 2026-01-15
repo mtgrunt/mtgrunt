@@ -6,7 +6,7 @@
   - 🌱 &nbsp; I’m currently learning AI/LLM and Javascript apps.
    
 #### <b>Past Projects:</b> 
-  Django, Hugo, Blockchain, Covid-19, IMDb Sentiment Analysis, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github Profile, PostgreSQL Query Visualizer App.:
+  Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github Profile, PostgreSQL Query Visualizer App., IMDb Sentiment Analysis:
   <br />  
     <img src="https://skillicons.dev/icons?i=django" />
     <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f9afee9c-02dd-4deb-ba82-57211d48d070" />
