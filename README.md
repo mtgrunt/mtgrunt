@@ -5,7 +5,7 @@
 #### <b>Present Project(s):</b>
   - 🌱 &nbsp; I’m currently learning AI/LLM and Javascript apps.
    
-#### Past Projects: Django, Hugo, Blockchain, Covid-19, IMDb Sentiment Analysis, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github Profile, PostgreSQL Query Visualizer App.:
+#### <b>Past Projects:</b> Django, Hugo, Blockchain, Covid-19, IMDb Sentiment Analysis, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github Profile, PostgreSQL Query Visualizer App.:
   <img src="https://skillicons.dev/icons?i=django" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f9afee9c-02dd-4deb-ba82-57211d48d070" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/057b99a8-b402-4dd3-8a79-a1f74b99b19a" />
@@ -15,11 +15,11 @@
   <img width="50" height="50" alt="image" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PostgreSQL-Dark.svg" />&nbsp;
 <br />
 
-#### Languages: CSS3, HTML5, JavaScript, JSON, Python, YAML and more:
+#### <b>Languages:</b> CSS3, HTML5, JavaScript, JSON, Python, YAML and more:
   
-#### Security: BASH Scripting, Firewall/NSG, Kali, Qubes, etc.
+#### <b>Security:</b> BASH Scripting, Firewall/NSG, Kali, Qubes, etc.
 
-#### Skills/Fun: Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Tensorflow, Whonix and VIM.    
+#### <b>Skills/Fun:</b> Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Tensorflow, Whonix and VIM.    
 
 Spotify
   <p align="left">
