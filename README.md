@@ -15,6 +15,7 @@
     <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/8b18a957-d66a-4596-890d-0110d3b05530" /> 
     <img src="./imdb_logo.png" alt="IMDb" height="50">  
     <img width="50" height="50" alt="image" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PostgreSQL-Dark.svg" />
+  <br />    
 <b>Languages:</b> 
   CSS3, HTML5, JavaScript, JSON, Python, YAML and more:
 
