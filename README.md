@@ -3,10 +3,9 @@
 ### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco. </b><br />
 
 #### <b>Present Project(s):</b>
-  - 🌱 &nbsp; I’m currently learning AI/LLM and Javascript apps.
-   
+
 #### <b>Past Projects:</b> 
-  Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github Profile, PostgreSQL Query Visualizer App., IMDb Sentiment Analysis:
+  Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github Profile, PostgreSQL Query Visualizer App., AI/LLM, IMDb Sentiment Analysis:
   <br />  
     <img src="https://skillicons.dev/icons?i=django" />
     <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f9afee9c-02dd-4deb-ba82-57211d48d070" />
@@ -21,10 +20,10 @@
   CSS3, HTML5, JavaScript, JSON, Python, YAML and more.
 
 #### <b>Security:</b>
-  - BASH Scripting, Firewall/NSG, Kali, Qubes, etc.
+  - Firewall/NSG, Kali, Qubes.
 
 #### <b>Skills/Fun:</b> 
-  - Angular, AWS, Azul, Blender, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Tensorflow, Whonix and VIM.    
+  - Angular, AWS, Azul, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Whonix and VIM.    
 
 #### <b>Spotify:</b>
   <p align="left">
