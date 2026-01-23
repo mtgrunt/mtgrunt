@@ -17,7 +17,7 @@
     
   <br />    
 <b>Languages:</b> 
-  CSS3, HTML5, JavaScript, JSON, Python, YAML and more.
+  CSS3, HTML5, JavaScript, JSON, Python, YAML.
 
 #### <b>Security:</b>
   - Firewall/NSG, Kali, Qubes.
