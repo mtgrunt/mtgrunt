@@ -2,7 +2,8 @@
 
 ### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco. </b><br />
 
-#### <b>Present Project(s):</b>
+#### <b>Present Project(s):</b> 
+  Projects and Statistics
 
 #### <b>Past Projects:</b> 
   Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github Profile, PostgreSQL Query Visualizer App., AI/LLM, IMDb Sentiment Analysis:
