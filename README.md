@@ -11,7 +11,7 @@ Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spoti
 #### <b>Languages:📄</b> 
   CSS3, HTML5, JavaScript, JSON, Python, YAML, Markdown, TOML.
 
-#### <b>Security:</b>
+#### <b>Security:⚙️</b>
   - Firewall/NSG, Kali, Qubes.
 
 #### <b>Skills/Fun:</b> 
