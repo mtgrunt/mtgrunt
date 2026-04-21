@@ -6,8 +6,8 @@
   🔭 Projects and Statistics, AI for coding.
 
 #### <b>Past Projects:</b> 
- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c803cac9-ffda-45d0-9b16-cd489305ba45" />
- Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github Profile, PostgreSQL Query Visualizer App., AI/LLM, IMDb Sentiment Analysis.
+ <b><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c803cac9-ffda-45d0-9b16-cd489305ba45" />
+ Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github Profile, PostgreSQL Query Visualizer App., AI/LLM, IMDb Sentiment Analysis.</b>
 
 #### <b>Languages:</b> 
   CSS3, HTML5, JavaScript, JSON, Python, YAML, Markdown, TOML.
