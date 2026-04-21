@@ -6,7 +6,7 @@
   Projects and Statistics
 
 #### <b>Past Projects:</b> 
-  Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github Profile, PostgreSQL Query Visualizer App., AI/LLM, IMDb Sentiment Analysis:
+  Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github Profile, PostgreSQL Query Visualizer App., AI/LLM, IMDb Sentiment Analysis.
 
 #### <b>Languages:</b> 
   CSS3, HTML5, JavaScript, JSON, Python, YAML.
