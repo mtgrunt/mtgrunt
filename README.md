@@ -14,7 +14,7 @@ Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spoti
 #### <b>Security:⚙️</b>
   - Firewall/NSG, Kali, Qubes.
 
-#### <b>Skills/Fun:</b> 
+#### <b>Skills/Fun:🔬</b> 
   - Angular, AWS, Azul, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Whonix, VIM.    
 
 #### <b>Spotify:</b>
