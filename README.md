@@ -9,7 +9,7 @@ Projects and Statistics, AI for coding.
 Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github  Profile, PostgreSQL Query Visualizer App., AI/LLM, IMDb Sentiment Analysis.
 
 #### <b>Languages:📄</b> 
-  CSS3, HTML5, JavaScript, JSON, Python, YAML, Markdown, TOML.
+  - CSS3, HTML5, JavaScript, JSON, Python, YAML, Markdown, TOML.
 
 #### <b>Security:⚙️</b>
   - Firewall/NSG, Kali, Qubes.
