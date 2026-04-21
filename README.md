@@ -15,7 +15,7 @@
   - Firewall/NSG, Kali, Qubes.
 
 #### <b>Skills/Fun:</b> 
-  - Angular, AWS, Azul, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Whonix and VIM.    
+  - Angular, AWS, Azul, Bootstrap, Cloudflare, Discord, Flask, Raspberry Pi, Stackoverflow, Whonix, VIM.    
 
 #### <b>Spotify:</b>
   <p align="left">
