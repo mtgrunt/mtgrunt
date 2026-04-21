@@ -5,7 +5,7 @@
 #### <b>Present Project(s):🔭</b> 
 Projects and Statistics, AI for coding.
 
-#### <b>Past Projects:</b> 
+#### <b>Past Projects:🚀</b> 
 Django, Hugo, Blockchain, Covid-19, GTA5 Mods, NFL Stats Draft Board 2026, Spotify Github  Profile, PostgreSQL Query Visualizer App., AI/LLM, IMDb Sentiment Analysis.
 
 #### <b>Languages:</b> 
