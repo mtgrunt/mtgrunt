@@ -1,6 +1,6 @@
 ## 😉  [mtgrunt] Hello there, nice to see you.  👋
 
-### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco. <br />🔭I'm currently doing research on AI for coding </b><br />
+### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco. </b><br />
 
 #### <b>Present Project(s):</b> 
   🔭 Projects and Statistics, AI for coding.
