@@ -2,7 +2,7 @@
 
 ### About:<br /> <b>I'm Miles from California, U.S. GitHub HQ is in San Francisco. </b><br />
 
-#### <b>Present Project(s):</b> 
+#### <b>Present Project(s):🔭</b> 
   🔭 Projects and Statistics, AI for coding.
 
 #### <b>Past Projects:</b> 
