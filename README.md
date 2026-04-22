@@ -14,7 +14,7 @@
 #### <b>Security:⚙️</b>
   - Firewall/NSG, Kali, Qubes.
 
-#### <b>Skills/Fun:🔬</b> 
+#### <b>Skills:🔬</b> 
   - Angular, AWS, Azul, Bootstrap, Cloudflare, Discord, Flask, Pi-Hole, Stackoverflow, Whonix, VIM.    
 
 #### <b>Spotify:</b>
