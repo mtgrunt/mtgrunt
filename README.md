@@ -3,10 +3,10 @@
 ### About:<br /> <b>I'm Miles from California, U.S. 🌍 Git/GitHub HQ is in San Francisco. </b><br />
 
 #### <b>Present Project(s):🔭</b> 
-  - Projects and Statistics, AI for coding.
+  - AI for coding, an introduction to Rust
 
 #### <b>Past Projects:🚀</b> 
-  - Django, Hugo, Blockchain, Covid-19, GTA5 Mods, Spotify Github, PostgreSQL, Query Visualizer App., AI/LLM, IMDb Sentiment Analysis.
+  - Django, Hugo, Blockchain, Covid-19, GTA5 Mods, Spotify Github, PostgreSQL, Query Visualizer App., AI/LLM, IMDb Sentiment Analysis, Statistics.
 
 #### <b>Languages:📄</b> 
   - CSS3, Go, HTML5, JavaScript, JSON, Python, TOML, YAML, 
