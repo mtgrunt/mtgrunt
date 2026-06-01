@@ -9,13 +9,13 @@
   - Django, Hugo, Blockchain, Covid-19, GTA5 Mods, Spotify Github, PostgreSQL, Query Visualizer App., AI/LLM, IMDb Sentiment Analysis.
 
 #### <b>Languages:📄</b> 
-  - CSS3, Go, HTML5, JavaScript, JSON, Markdown, Python, TOML, YAML, 
+  - CSS3, Go, HTML5, JavaScript, JSON, Python, TOML, YAML, 
 
 #### <b>Security:⚙️</b>
   - Firewall/NSG, Fedora, Kali, Qubes
 
 #### <b>Skills:🔬</b> 
-  - Angular, AWS, Azul, Bootstrap, Cloudflare, Discord, Flask, FOSS, Pi-Hole, Stackoverflow, WiFi Pineapple, Whonix, VIM, VSC.   
+  - Angular, AWS, Azul, Bootstrap, Cloudflare, Discord, Flask, FOSS, Markdown, Pi-Hole, Stackoverflow, WiFi Pineapple, Whonix, VIM, VSC.   
 
 #### <b>Spotify:</b>
   <p align="left">
