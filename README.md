@@ -1,4 +1,5 @@
 ## 😉  [mtgrunt] Hello there, nice to see you.  👋
+![](https://komarev.com/ghpvc/?username=mtgrunt&color=blue)
 
 ### About:<br /> <b>I'm Miles from California, U.S. 🌍 Git/GitHub HQ is in San Francisco. </b><br />
 
