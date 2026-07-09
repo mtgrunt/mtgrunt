@@ -10,7 +10,7 @@
   - Django, Hugo, Blockchain, Covid-19, GTA5 Mods, Spotify Github, PostgreSQL, Query Visualizer App., AI/LLM, IMDb Sentiment Analysis, Statistics, Rust
 
 #### <b>Languages:📄</b> 
-  - CSS3, Go, HTML5, JavaScript, JSON, PHP, Python, TOML, YAML
+  - CSS3, Go, HTML5, JavaScript, JSON, PHP, Python, Rust, TOML, YAML
 
 #### <b>Security:⚙️</b>
   - Firewall/NSG, Fedora, Kali, Qubes
