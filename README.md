@@ -19,8 +19,14 @@
   - Angular, AWS, Azul, Bootstrap, Cloudflare, Discord, Flask, FOSS, Markdown, Pi-Hole, Stackoverflow, WiFi Pineapple, Whonix, VIM, VSC 
 
 #### <b>Spotify:</b>
-  <p align="left">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
-    </a>
-</p>  
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
