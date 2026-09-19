@@ -1,6 +1,5 @@
 ## 😉  [mtgrunt] Hello there, nice to see you.  👋
 ![](https://komarev.com/ghpvc/?username=mtgrunt&color=blue)
-
 ### About:<br /> <b>I'm Miles from California, U.S. 🌍 Git/GitHub HQ is in San Francisco. </b><br />
 
 #### <b>Present Project(s):🔭</b> 
@@ -24,3 +23,4 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mtgrunt&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
   </a>
 </p>
+
