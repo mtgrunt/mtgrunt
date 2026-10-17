@@ -12,7 +12,7 @@
   - CSS3, Go, HTML5, JavaScript, JSON, PHP, Python, Rust, TOML, YAML
 
 #### <b>Security:⚙️</b>
-  - Firewall/NSG, Fedora, Kali, Qubes
+  - Firewall/NSG, Linux (Fedora, Kali, Qubes)
 
 #### <b>Skills:🔬</b> 
   - Angular, AWS, Azul, Bootstrap, Cloudflare, Discord, Flask, FOSS, Markdown, Pi-Hole, Stackoverflow, WiFi Pineapple, Whonix, VIM, VSC 
