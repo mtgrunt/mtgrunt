@@ -6,7 +6,7 @@
   - Advancing my IT career through hands-on learning with Cisco, AD-Attack-Defense
 
 #### <b>Past Projects:🚀</b> 
-  - Django, Hugo, Blockchain, Covid-19, GTA5 Mods, Spotify Github, PostgreSQL, Query Visualizer App., AI/LLM, IMDb Sentiment Analysis, Statistics, Rust
+  - Django, Hugo, Blockchain, Covid-19, GTA5 Mods, Spotify Github, PostgreSQL, Query Visualizer App., AI/LLM, IMDb Sentiment Analysis, Statistics
 
 #### <b>Languages:📄</b> 
   - CSS3, Go, HTML5, JavaScript, JSON, PHP, Python, Rust, TOML, YAML
